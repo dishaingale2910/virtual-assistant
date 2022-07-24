@@ -1,0 +1,44 @@
+Requirements
+Pip installation-
+1.	pip install pywikihow
+2.	pip install datetime
+3.	pip install operator
+4.	pip install requests
+5.	pip install pyttsx3
+6.	pip install speech_recognition 
+7.	pip install webbrowser
+8.	pip install wikipedia
+9.	pip install pywhatkit 
+10.	pip install pyjokes
+11.	pip install BeautifulSoup
+12.	pip install json
+13.	pip install speedtest
+
+Commands:
+1.	open youtube
+2.	open google
+3.	open notepad
+4.	open calculator
+5.	open command prompt
+6.	play songs on youtube
+7.	search google
+8.	switch the window
+9.	tell me some news
+10.	tell me your current location
+11.	which day it is
+12.	tell me your memory consumption
+13.	what is (search name) according to wikipedia
+14.	tell me what can you do
+15.	tell me my history
+16.	do some calculation
+17.	how to cook maggie
+18.	weather in (city)
+19.	volume up
+20.	volume down
+21.	what is my internet speed
+22.	check my internet connection
+23.	spell the word python
+24.	tell me a joke
+25.	no thanks
+26.	bye
+27.	thank you
